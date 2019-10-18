@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3E31-0D26
+
+ Directory of C:\Users\muham\Desktop\GitProject1
+
+10/18/2019  12:21 PM    <DIR>          .
+10/18/2019  12:21 PM    <DIR>          ..
+10/18/2019  12:21 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  42,733,465,600 bytes free
